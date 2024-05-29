@@ -25,4 +25,7 @@ align-items: center;
     position: absolute;
     bottom: 10vmin;
     left: 0vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
