@@ -40,8 +40,16 @@ h2{
 .from{
     margin: 40px;
 }
+#from{
+    border: none;
+}
 .to{
     margin: 40px;
+    
+}
+#to{
+    border: none;
+    
 }
 .btn{
     margin: 20px;
@@ -53,4 +61,20 @@ h2{
 }
 .msg{
     margin: 30px;
+}
+.select{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+.img1{
+    width: 40px;
+}
+.img2{
+    width: 40px;
 }
