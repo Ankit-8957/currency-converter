@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9s4WjSsjtgkaBFNU7sCRgUEQYAI_DB4kTVw&s) no-repeat center center/cover;
+    color: black;
+    font-weight: 700;
+    height: 100vh;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px;
+}
+h2{
+    margin: 20px;
+    color: white;
+}
+.form{
+    background-color:rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 30px;
+    box-shadow: 2px 11px 19px 0px white;
+    width: 50vw;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.dropDown{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.from{
+    margin: 40px;
+}
+#from{
+    border: none;
+}
+.to{
+    margin: 40px;
+    
+}
+#to{
+    border: none;
+    
+}
+.btn{
+    margin: 20px;
+    width: 7rem;
+    height: 1.5rem;
+    border-radius: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.msg{
+    margin: 30px;
+}
+.select{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+.img1{
+    width: 40px;
+}
+.img2{
+    width: 40px;
+}

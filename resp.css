@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+.form {
+    height: 40vh;
+    width: 74vw;
+}
+
+.dropDown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.from {
+    margin: 20px;
+}
+
+.to {
+    margin: 20px;
+}
+
+.container {
+    height: 100vh;
+    position: absolute;
+    bottom: 10vmin;
+    left: 0vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.select{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+.img1{
+    width: 20px;
+}
+.img2{
+    width: 20px;
+}
