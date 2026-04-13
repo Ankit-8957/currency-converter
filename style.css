@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9s4WjSsjtgkaBFNU7sCRgUEQYAI_DB4kTVw&s) no-repeat center center/cover;
+    background: url(https://img.freepik.com/free-vector/global-virtual-currency-sign-techno-concept-background-design_1017-52482.jpg) no-repeat center center/cover;
     color: black;
     font-weight: 700;
     height: 100vh;
@@ -14,13 +14,14 @@ body{
     align-items: center;
     flex-direction: column;
     margin: 50px;
+    
 }
 h2{
     margin: 20px;
     color: white;
 }
 .form{
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(132, 160, 212);
     border: 2px solid rgb(0, 0, 0);
     border-radius: 30px;
     box-shadow: 2px 11px 19px 0px white;
